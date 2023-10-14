@@ -1,0 +1,2 @@
+SELECT id, nome, sobrenome, email, idade, peso, altura, created_at, updated_at
+	FROM public.alunos;

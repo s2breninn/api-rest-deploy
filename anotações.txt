@@ -1,0 +1,10 @@
+  No controllers pode utilizar até 5 metodos, sendo eles: 
+    - Listar os usuários: index -> GET
+    - Cria um novo usuários: store ou create -> POST
+    - Apaga um usuários: delete -> DELETE
+    - Mostra um usuários: show -> GET
+    - Atualizar um usuários: update -> PATCH ou PUT
+
+  Autenticalçao  com JWT
+    A todo momento que o usuário for fazer login primeiro consultará
+    a chave dele
